@@ -1,6 +1,3 @@
-// kk4036_hw15_Employee.cpp 
-
-#include "pch.h"
 #include <iostream>
 #include <fstream>
 #include <iomanip>
